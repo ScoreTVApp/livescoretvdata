@@ -1,1 +1,1 @@
-{"football1": {"8": [{"HOME": [{"name": "Serge-Philippe Raux Yao", "shortName": "S. Raux Yao", "time": "8'", "id": "40794", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "position": 2}], "AWAY": []}]}, "summary": [], "status": "8'"}
+{"football1": {"8": [{"HOME": [{"name": "Serge-Philippe Raux Yao", "shortName": "S. Raux Yao", "time": "8'", "id": "40794", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "assist": [{"name": "Matthias Seidl", "shortName": "M. Seidl"}]}], "AWAY": []}]}, "summary": [], "status": "10'"}
