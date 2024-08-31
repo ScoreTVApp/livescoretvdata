@@ -1,1 +1,1 @@
-{"football1": {"3": [{"HOME": [{"name": "Lewis Leigh", "shortName": "L. Leigh", "time": "3'", "id": "6926", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "position": 3}], "AWAY": []}]}, "summary": [], "status": "4'"}
+{"football1": {"3": [{"HOME": [{"name": "Lewis Leigh", "shortName": "L. Leigh", "time": "3'", "id": "6926", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "assist": [{"name": "Michael Cheek", "shortName": "M. Cheek"}]}], "AWAY": []}]}, "summary": [], "status": "5'"}
