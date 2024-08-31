@@ -1,1 +1,1 @@
-{"football1": {"11": [{"HOME": [], "AWAY": [{"name": "Callum Camps", "shortName": "C. Camps", "time": "11'", "id": "11471", "type": "FootballYellowCard", "position": 3}]}]}, "summary": [], "status": "21'"}
+{"football1": {"11": [{"HOME": [], "AWAY": [{"name": "Callum Camps", "shortName": "C. Camps", "time": "11'", "id": "11471", "type": "FootballYellowCard", "position": 3}]}], "22": [{"HOME": [{"name": "", "shortName": "", "time": "22'", "id": "0", "score": {"home": "1", "away": "0"}, "type": "FootballGoal"}], "AWAY": []}]}, "summary": [], "status": "22'"}
