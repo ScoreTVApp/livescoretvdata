@@ -1,1 +1,1 @@
-{"football1": {"15": [{"HOME": [{"name": "Liam Delap", "shortName": "L. Delap", "time": "15'", "id": "3258", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "position": 4}], "AWAY": []}]}, "summary": [], "status": "16'"}
+{"football1": {"15": [{"HOME": [{"name": "Liam Delap", "shortName": "L. Delap", "time": "15'", "id": "3258", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "assist": [{"name": "Leif Davis", "shortName": "L. Davis"}]}], "AWAY": []}]}, "summary": [], "status": "18'"}
