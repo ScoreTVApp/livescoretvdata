@@ -1,1 +1,1 @@
-{"football1": {"16": [{"HOME": [{"name": "Sven Kums", "shortName": "S. Kums", "time": "16'", "id": "19603", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "position": 3}], "AWAY": []}]}, "summary": [], "status": "17'"}
+{"football1": {"16": [{"HOME": [{"name": "Sven Kums", "shortName": "S. Kums", "time": "16'", "id": "19603", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "assist": [{"name": "Jordan Torunarigha", "shortName": "J. Torunarigha"}]}], "AWAY": []}]}, "summary": [], "status": "18'"}
