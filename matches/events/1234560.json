@@ -1,1 +1,1 @@
-{"football1": {"25": [{"HOME": [], "AWAY": [{"name": "Ilie Sanchez", "shortName": "I. Sanchez", "time": "25'", "id": "30554", "type": "FootballYellowCard", "position": 2}]}]}, "summary": [], "status": "45+5'"}
+{"football1": {"25": [{"HOME": [], "AWAY": [{"name": "Ilie Sanchez", "shortName": "I. Sanchez", "time": "25'", "id": "30554", "type": "FootballYellowCard", "position": 2}]}], "45+6": [{"AWAY": [{"name": "", "shortName": "", "time": "45 + 6'", "id": "0", "score": {"home": "0", "away": "1"}, "type": "FootballGoal"}], "HOME": []}]}, "summary": [], "status": "45+6'"}
