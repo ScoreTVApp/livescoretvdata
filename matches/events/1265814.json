@@ -1,1 +1,1 @@
-{"football1": {"25": [{"HOME": [], "AWAY": [{"name": "Dion Lopy", "shortName": "D. Lopy", "time": "25'", "id": "3057", "type": "FootballYellowCard", "position": 3}]}]}, "summary": [], "status": "45+1'"}
+{"football1": {"25": [{"HOME": [], "AWAY": [{"name": "Dion Lopy", "shortName": "D. Lopy", "time": "25'", "id": "3057", "type": "FootballYellowCard", "position": 3}]}], "45+1": [{"AWAY": [], "HOME": [{"name": "", "shortName": "", "time": "45 + 1'", "id": "0", "type": "FootballYellowCard"}]}]}, "summary": [], "status": "45+2'"}
