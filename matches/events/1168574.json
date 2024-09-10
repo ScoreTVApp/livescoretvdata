@@ -1,1 +1,1 @@
-{"football2": {"64": [{"HOME": [{"name": "Renars Varslavans", "shortName": "R. Varslavans", "time": "64'", "id": "32327", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "assist": [{"name": "Vladislavs Gutkovskis", "shortName": "V. Gutkovskis"}]}], "AWAY": []}]}, "summary": [], "status": "66'"}
+{"football2": {"64": [{"HOME": [{"name": "Renars Varslavans", "shortName": "R. Varslavans", "time": "64'", "id": "32327", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "position": 3}], "AWAY": []}]}, "summary": [], "status": "67'"}
