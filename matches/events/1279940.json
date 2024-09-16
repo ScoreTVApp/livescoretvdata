@@ -1,1 +1,1 @@
-{"football1": {"3": [{"HOME": [{"name": "", "shortName": "", "time": "3'", "id": "0", "score": {"home": "1", "away": "0"}, "type": "FootballGoal"}], "AWAY": []}]}, "summary": [], "status": "3'"}
+{"football1": {"2": [{"HOME": [{"name": "Enrico Del Prato", "shortName": "E. Del Prato", "time": "2'", "id": "15815", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "assist": [{"name": "Valentin Mihăilă", "shortName": "V. Mihăilă"}]}], "AWAY": []}]}, "summary": [], "status": "4'"}
