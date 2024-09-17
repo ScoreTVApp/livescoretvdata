@@ -1,1 +1,1 @@
-{"football1": {"16": [{"AWAY": [{"name": "Eddie Nketiah", "shortName": "E. Nketiah", "time": "16'", "id": "31022", "score": {"home": "0", "away": "1"}, "type": "FootballGoal", "position": 3}], "HOME": []}]}, "summary": [], "status": "17'"}
+{"football1": {"16": [{"AWAY": [{"name": "Eddie Nketiah", "shortName": "E. Nketiah", "time": "16'", "id": "31022", "score": {"home": "0", "away": "1"}, "type": "FootballGoal", "assist": [{"name": "Eberechi Eze", "shortName": "E. Eze"}]}], "HOME": []}]}, "summary": [], "status": "18'"}
