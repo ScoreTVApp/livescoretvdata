@@ -1,1 +1,1 @@
-{"football1": {"21": [{"HOME": [{"name": "Abdoulaye Doucouré", "shortName": "A. Doucouré", "time": "21'", "id": "33639", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "position": 3}], "AWAY": []}]}, "summary": [], "status": "21'"}
+{"football1": {"21": [{"HOME": [{"name": "Abdoulaye Doucouré", "shortName": "A. Doucouré", "time": "21'", "id": "33639", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "assist": [{"name": "Michael Keane", "shortName": "M. Keane"}]}], "AWAY": []}]}, "summary": [], "status": "22'"}
