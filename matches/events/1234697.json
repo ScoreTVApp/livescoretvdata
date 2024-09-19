@@ -1,1 +1,1 @@
-{"football2": {"51": [{"AWAY": [{"name": "Cucho Hernandez", "shortName": "C. Hernandez", "time": "51'", "id": "11609", "score": {"home": "0", "away": "1"}, "type": "FootballGoal", "position": 5}], "HOME": []}]}, "summary": [], "status": "54'"}
+{"football2": {"51": [{"AWAY": [{"name": "Cucho Hernandez", "shortName": "C. Hernandez", "time": "51'", "id": "11609", "score": {"home": "0", "away": "1"}, "type": "FootballGoal", "assist": [{"name": "Jacen Russell-Rowe", "shortName": "J. Russell-Rowe"}]}], "HOME": []}]}, "summary": [], "status": "55'"}
