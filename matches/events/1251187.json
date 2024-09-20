@@ -1,1 +1,1 @@
-{"football1": {"18": [{"HOME": [{"name": "Carlos Vicente", "shortName": "C. Vicente", "time": "18'", "id": "70379", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "position": 3}], "AWAY": []}]}, "summary": [], "status": "18'"}
+{"football1": {"17": [{"HOME": [{"name": "Carlos Vicente", "shortName": "C. Vicente", "time": "17'", "id": "70379", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "assist": [{"name": "Facundo Tenaglia", "shortName": "F. Tenaglia"}]}], "AWAY": []}]}, "summary": [], "status": "20'"}
