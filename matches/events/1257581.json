@@ -1,1 +1,1 @@
-{"football1": {"9": [{"HOME": [{"name": "", "shortName": "", "time": "9'", "id": "0", "score": {"home": "1", "away": "0"}, "type": "FootballGoal"}], "AWAY": []}]}, "summary": [], "status": "9'"}
+{"football1": {"9": [{"HOME": [{"name": "Jordan Teze", "shortName": "J. Teze", "time": "9'", "id": "20051", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "assist": [{"name": "Takumi Minamino", "shortName": "T. Minamino"}]}], "AWAY": []}]}, "summary": [], "status": "10'"}
