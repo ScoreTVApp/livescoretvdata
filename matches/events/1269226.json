@@ -1,1 +1,1 @@
-{"football1": {"14": [{"HOME": [], "AWAY": [{"name": "", "shortName": "", "time": "14'", "id": "", "score": {"home": "0", "away": "0"}, "type": "FootballGoalMiss", "varLabel": "no_goal"}]}]}, "football2": {"60": [{"HOME": [], "AWAY": [{"name": "", "shortName": "", "time": "60'", "id": "", "type": "FootballYellowCard"}]}]}, "summary": [], "status": "60'"}
+{"football2": {"60": [{"HOME": [], "AWAY": [{"name": "Florian Rieder", "shortName": "F. Rieder", "time": "60'", "id": "31220", "type": "FootballYellowCard", "position": 4}]}]}, "summary": [], "status": "61'"}
