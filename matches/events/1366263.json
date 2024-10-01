@@ -1,1 +1,1 @@
-{"football1": {"7": [{"HOME": [{"name": "", "shortName": "", "time": "7'", "id": "0", "score": {"home": "1", "away": "0"}, "type": "FootballGoal"}], "AWAY": []}]}, "summary": [], "status": "8'"}
+{"football1": {"7": [{"HOME": [{"name": "Enzo Millot", "shortName": "E. Millot", "time": "7'", "id": "15544", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "assist": [{"name": "Maximilian Mittelstädt", "shortName": "M. Mittelstädt"}]}], "AWAY": []}]}, "summary": [], "status": "9'"}
