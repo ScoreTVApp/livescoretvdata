@@ -1,1 +1,1 @@
-{"football1": {"14": [{"HOME": [{"name": "Olufela Olomola", "shortName": "O. Olomola", "time": "14'", "id": "53", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "position": 3}], "AWAY": []}]}, "summary": [], "status": "16'"}
+{"football1": {"14": [{"HOME": [{"name": "Olufela Olomola", "shortName": "O. Olomola", "time": "14'", "id": "53", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "assist": [{"name": "Daniel Imray", "shortName": "D. Imray"}]}], "AWAY": []}]}, "summary": [], "status": "17'"}
