@@ -1,1 +1,1 @@
-{"football1": {"13": [{"HOME": [{"name": "Kerem Aktürkoğlu", "shortName": "K. Aktürkoğlu", "time": "13'", "id": "22314", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "position": 4}], "AWAY": []}]}, "summary": [], "status": "13'"}
+{"football1": {"13": [{"HOME": [{"name": "Kerem Aktürkoğlu", "shortName": "K. Aktürkoğlu", "time": "13'", "id": "22314", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "assist": [{"name": "Fredrik Aursnes", "shortName": "F. Aursnes"}]}], "AWAY": []}]}, "summary": [], "status": "14'"}
