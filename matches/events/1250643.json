@@ -1,1 +1,1 @@
-{"football1": {"2": [{"HOME": [{"name": "", "shortName": "", "time": "2'", "id": "0", "score": {"home": "1", "away": "0"}, "type": "FootballGoal"}], "AWAY": []}]}, "summary": [], "status": "1'"}
+{"football1": {"2": [{"HOME": [{"name": "Michail Antonio", "shortName": "M. Antonio", "time": "2'", "id": "29254", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "assist": [{"name": "Jarrod Bowen", "shortName": "J. Bowen"}]}], "AWAY": []}]}, "summary": [], "status": "2'"}
