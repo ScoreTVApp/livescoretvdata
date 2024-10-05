@@ -1,1 +1,1 @@
-{"football1": {"2": [{"HOME": [{"name": "Nathan Collins", "shortName": "N. Collins", "time": "2'", "id": "9370", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "position": 2}], "AWAY": []}]}, "summary": [], "status": "3'"}
+{"football1": {"2": [{"HOME": [{"name": "Nathan Collins", "shortName": "N. Collins", "time": "2'", "id": "9370", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "assist": [{"name": "Mikkel Damsgaard", "shortName": "M. Damsgaard"}]}], "AWAY": []}]}, "summary": [], "status": "4'"}
