@@ -1,1 +1,1 @@
-{"football1": {"2": [{"HOME": [{"name": "Jamie Leweling", "shortName": "J. Leweling", "time": "2'", "id": "14356", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "position": 3}], "AWAY": []}]}, "summary": [], "status": "3'"}
+{"football1": {"2": [{"HOME": [{"name": "Jamie Leweling", "shortName": "J. Leweling", "time": "2'", "id": "14356", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "assist": [{"name": "Serge Gnabry", "shortName": "S. Gnabry"}]}], "AWAY": []}]}, "summary": [], "status": "4'"}
