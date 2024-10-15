@@ -1,1 +1,1 @@
-{"football1": {"5": [{"HOME": [{"name": "Piotr Zieliński", "shortName": "P. Zieliński", "time": "5'", "id": "16571", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "position": 3}], "AWAY": []}]}, "summary": [], "status": "7'"}
+{"football1": {"5": [{"HOME": [{"name": "Piotr Zieliński", "shortName": "P. Zieliński", "time": "5'", "id": "16571", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "assist": [{"name": "Kacper Urbański", "shortName": "K. Urbański"}]}], "AWAY": []}]}, "summary": [], "status": "8'"}
