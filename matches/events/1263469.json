@@ -1,1 +1,1 @@
-{"football2": {"60": [{"HOME": [], "AWAY": [{"name": "Vinicius Souza", "shortName": "V. Souza", "time": "60'", "id": "35072", "type": "FootballYellowCard", "position": 3}]}]}, "summary": [], "status": "68'"}
+{"football2": {"60": [{"HOME": [], "AWAY": [{"name": "Vinicius Souza", "shortName": "V. Souza", "time": "60'", "id": "35072", "type": "FootballYellowCard", "position": 3}]}], "69": [{"HOME": [{"name": "", "shortName": "", "time": "69'", "id": "0", "score": {"home": "1", "away": "0"}, "type": "FootballGoal"}], "AWAY": []}]}, "summary": [], "status": "69'"}
