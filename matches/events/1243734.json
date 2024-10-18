@@ -1,1 +1,1 @@
-{"football1": {"30": [{"HOME": [{"name": "Marwan Alsahafi", "shortName": "M. Alsahafi", "time": "30'", "id": "63514", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "position": 4}], "AWAY": []}]}, "summary": [], "status": "32'"}
+{"football1": {"30": [{"HOME": [{"name": "Marwan Alsahafi", "shortName": "M. Alsahafi", "time": "30'", "id": "63514", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "assist": [{"name": "Ryan Sanusi", "shortName": "R. Sanusi"}]}], "AWAY": []}]}, "summary": [], "status": "33'"}
