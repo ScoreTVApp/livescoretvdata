@@ -1,1 +1,1 @@
-{"football1": {"37": [{"AWAY": [], "HOME": [{"name": "Joe Bryan", "shortName": "J. Bryan", "time": "37'", "id": "31185", "type": "FootballYellowCard", "position": 2}]}]}, "summary": [], "status": "77'"}
+{"football1": {"37": [{"AWAY": [], "HOME": [{"name": "Joe Bryan", "shortName": "J. Bryan", "time": "37'", "id": "31185", "type": "FootballYellowCard", "position": 2}]}]}, "football2": {"79": [{"AWAY": [{"name": "", "shortName": "", "time": "79'", "id": "0", "score": {"home": "0", "away": "1"}, "type": "FootballGoal"}], "HOME": []}]}, "summary": [], "status": "79'"}
