@@ -1,1 +1,1 @@
-{"homeStarters": [], "awayStarters": [], "homeSubs": [], "awaySubs": [], "homeCoach": [], "awayCoach": [{"playerId": "5239", "name": "Eduardo Fentanes", "shortName": "E. Fentanes", "minOut": "", "position": "COACH", "positionId": 10}]}
+{"homeStarters": [], "awayStarters": [], "homeSubs": [], "awaySubs": [], "homeCoach": [], "awayCoach": [{"id": "5239", "playerId": "5239", "playerNameSlug": "eduardo-fentanes", "name": "Eduardo Fentanes", "shortName": "E. Fentanes", "minOut": "", "position": "COACH", "positionId": 10}]}
