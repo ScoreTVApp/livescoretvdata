@@ -1,1 +1,1 @@
-{"football1": {"3": [{"HOME": [{"name": "", "shortName": "", "time": "3'", "id": "0", "score": {"home": "1", "away": "0"}, "type": "FootballGoal"}], "AWAY": []}]}, "summary": [], "status": "3'"}
+{"football1": {"3": [{"HOME": [{"name": "Phil Foden", "shortName": "P. Foden", "time": "3'", "id": "3255", "playerId": "3255", "playerNameSlug": "phil-foden", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "assist": [{"name": "Manuel Akanji", "shortName": "M. Akanji", "id": "15415"}]}], "AWAY": []}]}, "summary": [], "status": "4'"}
