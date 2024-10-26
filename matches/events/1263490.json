@@ -1,1 +1,1 @@
-{"football1": {"16": [{"HOME": [{"name": "", "shortName": "", "time": "16'", "id": "0", "score": {"home": "1", "away": "0"}, "type": "FootballGoal"}], "AWAY": []}]}, "summary": [], "status": "16'"}
+{"football1": {"16": [{"HOME": [{"name": "Jobe Bellingham", "shortName": "J. Bellingham", "time": "16'", "id": "44805", "playerId": "44805", "playerNameSlug": "jobe-bellingham", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "assist": [{"name": "Trai Hume", "shortName": "T. Hume", "id": "30819"}]}], "AWAY": []}]}, "summary": [], "status": "17'"}
