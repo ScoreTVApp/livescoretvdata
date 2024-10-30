@@ -1,1 +1,1 @@
-{"football1": {"19": [{"AWAY": [{"name": "", "shortName": "", "time": "19'", "id": "0", "score": {"home": "0", "away": "1"}, "type": "FootballGoal"}], "HOME": []}]}, "summary": [], "status": "19'"}
+{"football1": {"19": [{"AWAY": [{"name": "Matteo Darmian", "shortName": "M. Darmian", "time": "19'", "id": "16006", "playerId": "16006", "playerNameSlug": "matteo-darmian", "score": {"home": "0", "away": "1"}, "type": "FootballGoal", "assist": [{"name": "Lautaro Martínez", "shortName": "L. Martínez", "id": "16025"}]}], "HOME": []}]}, "summary": [], "status": "20'"}
