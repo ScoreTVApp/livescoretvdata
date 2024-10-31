@@ -1,1 +1,1 @@
-{"football2": {"56": [{"AWAY": [], "HOME": [{"name": "", "shortName": "", "time": "56'", "id": "", "type": "FootballYellowCard"}]}], "87": [{"HOME": [], "AWAY": [{"name": "", "shortName": "", "time": "87'", "id": "", "type": "FootballYellowCard"}]}]}, "summary": [], "status": "101'"}
+{"football3": {"102": [{"AWAY": [{"name": "", "shortName": "", "time": "102'", "id": "0", "score": {"home": "0", "away": "1"}, "type": "FootballGoal"}], "HOME": []}]}, "summary": [], "status": "102'"}
