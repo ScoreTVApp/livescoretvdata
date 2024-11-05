@@ -1,1 +1,1 @@
-{"football1": {"20": [{"AWAY": [{"name": "", "shortName": "", "time": "20'", "id": "0", "score": {"home": "0", "away": "1"}, "type": "FootballGoal"}], "HOME": []}]}, "summary": [], "status": "19'"}
+{"football1": {"19": [{"AWAY": [{"name": "Wilfried Singo", "shortName": "W. Singo", "time": "19'", "id": "15995", "playerId": "15995", "playerNameSlug": "wilfried-singo", "score": {"home": "0", "away": "1"}, "type": "FootballGoal", "assist": [{"name": "Maghnes Akliouche", "shortName": "M. Akliouche", "id": "2430"}]}], "HOME": []}]}, "summary": [], "status": "21'"}
