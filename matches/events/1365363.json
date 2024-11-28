@@ -1,1 +1,1 @@
-{"football1": {"2": [{"AWAY": [], "HOME": [{"name": "", "shortName": "", "time": "2'", "id": "", "score": {"home": "0", "away": "0"}, "type": "FootballGoalMiss", "varLabel": "no_goal"}]}]}, "summary": [], "status": "24'"}
+{"football1": {"24": [{"AWAY": [{"name": "Wenderson Galeno", "shortName": "Galeno", "time": "24'", "id": "21245", "playerId": "21245", "playerNameSlug": "galeno", "score": {"home": "0", "away": "1"}, "type": "FootballGoalPen", "position": 4}], "HOME": []}]}, "summary": [], "status": "25'"}
