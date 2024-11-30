@@ -1,1 +1,1 @@
-{"football1": {"16": [{"AWAY": [{"name": "", "shortName": "", "time": "16'", "id": "", "score": {"home": "0", "away": "1"}, "type": "FootballGoal"}], "HOME": []}]}, "summary": [], "status": "16'"}
+{"football1": {"16": [{"AWAY": [{"name": "Gassan Ahadme", "shortName": "G. Ahadme", "time": "16'", "id": "1490", "playerId": "1490", "playerNameSlug": "gassan-ahadme", "score": {"home": "0", "away": "1"}, "type": "FootballGoal", "assist": [{"name": "Conor Coventry", "shortName": "C. Coventry", "id": "9368"}]}], "HOME": []}]}, "summary": [], "status": "17'"}
