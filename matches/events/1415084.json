@@ -1,1 +1,1 @@
-{"football1": {"18": [{"AWAY": [], "HOME": [{"name": "", "shortName": "", "time": "18'", "id": "", "score": {"home": "0", "away": "0"}, "type": "FootballGoalPenMiss"}]}]}, "summary": [], "status": "22'"}
+{"football1": {"18": [{"AWAY": [], "HOME": [{"name": "", "shortName": "", "time": "18'", "id": "", "score": {"home": "0", "away": "0"}, "type": "FootballGoalPenMiss"}]}], "22": [{"AWAY": [{"name": "", "shortName": "", "time": "22'", "id": "", "score": {"home": "0", "away": "1"}, "type": "FootballGoalPen"}], "HOME": []}]}, "summary": [], "status": "22'"}
