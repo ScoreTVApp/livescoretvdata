@@ -1,1 +1,1 @@
-{"football1": {"45": [{"AWAY": [{"name": "Gyrano Kerk", "shortName": "G. Kerk", "time": "45'", "id": "9864", "playerId": "9864", "playerNameSlug": "gyrano-kerk", "score": {"home": "0", "away": "1"}, "type": "FootballGoal", "position": 4}], "HOME": []}]}, "summary": [], "status": "45+1'"}
+{"football1": {"45": [{"HOME": [], "AWAY": [{"name": "Ahmed Touba", "shortName": "A. Touba", "time": "45'", "id": "20179", "playerId": "20179", "playerNameSlug": "ahmed-touba", "score": {"home": "0", "away": "1"}, "type": "FootballOwnGoal", "position": 2}]}]}, "summary": [], "status": "HT"}
