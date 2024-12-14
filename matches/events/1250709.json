@@ -1,1 +1,1 @@
-{"football1": {"16": [{"AWAY": [{"name": "", "shortName": "", "time": "16'", "id": "0", "score": {"home": "0", "away": "1"}, "type": "FootballGoal"}], "HOME": []}]}, "summary": [], "status": "16'"}
+{"football1": {"16": [{"HOME": [], "AWAY": [{"name": "Matt Doherty", "shortName": "M. Doherty", "time": "16'", "id": "26052", "playerId": "26052", "playerNameSlug": "matt-doherty", "score": {"home": "0", "away": "1"}, "type": "FootballOwnGoal", "position": 3}]}]}, "summary": [], "status": "17'"}
