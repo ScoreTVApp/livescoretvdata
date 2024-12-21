@@ -1,1 +1,1 @@
-{"football1": {"38": [{"HOME": [{"name": "", "shortName": "", "time": "38'", "id": "0", "score": {"home": "1", "away": "0"}, "type": "FootballGoal"}], "AWAY": []}]}, "summary": [], "status": "42'"}
+{"football1": {"38": [{"HOME": [{"name": "Lewis Gibson", "shortName": "L. Gibson", "time": "38'", "id": "905", "playerId": "905", "playerNameSlug": "lewis-gibson", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "assist": [{"name": "Ryan Hardie", "shortName": "R. Hardie", "id": "41281"}]}], "AWAY": []}]}, "summary": [], "status": "43'"}
