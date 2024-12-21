@@ -1,1 +1,1 @@
-{"football1": {"17": [{"HOME": [{"name": "", "shortName": "", "time": "17'", "id": "0", "score": {"home": "1", "away": "0"}, "type": "FootballGoal"}], "AWAY": []}]}, "summary": [], "status": "16'"}
+{"football1": {"16": [{"HOME": [{"name": "Jhon Durán", "shortName": "J. Durán", "time": "16'", "id": "13387", "playerId": "13387", "playerNameSlug": "jhon-duran", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "assist": [{"name": "Morgan Rogers", "shortName": "M. Rogers", "id": "38111"}]}], "AWAY": []}]}, "summary": [], "status": "19'"}
