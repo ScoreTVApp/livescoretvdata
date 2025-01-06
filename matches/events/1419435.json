@@ -1,1 +1,1 @@
-{"football1": {"5": [{"AWAY": [{"name": "", "shortName": "", "time": "5'", "id": "0", "score": {"home": "0", "away": "1"}, "type": "FootballGoal"}], "HOME": []}]}, "summary": [], "status": "7'"}
+{"football1": {"5": [{"AWAY": [{"name": "Federico Valverde", "shortName": "F. Valverde", "time": "5'", "id": "18774", "playerId": "18774", "playerNameSlug": "federico-valverde", "score": {"home": "0", "away": "1"}, "type": "FootballGoal", "position": 3}], "HOME": []}]}, "summary": [], "status": "7'"}
