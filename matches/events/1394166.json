@@ -1,1 +1,1 @@
-{"football1": {"45+2": [{"HOME": [{"name": "", "shortName": "", "time": "45 + 2'", "id": "0", "score": {"home": "1", "away": "0"}, "type": "FootballGoal"}], "AWAY": []}]}, "summary": [], "status": "45+2'"}
+{"football1": {"45+1": [{"HOME": [{"name": "Lautaro Martínez", "shortName": "L. Martínez", "time": "45 + 1'", "id": "16025", "playerId": "16025", "playerNameSlug": "lautaro-martinez", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "assist": [{"name": "Mehdi Taremi", "shortName": "M. Taremi", "id": "21243"}]}], "AWAY": []}]}, "summary": [], "status": "45+2'"}
