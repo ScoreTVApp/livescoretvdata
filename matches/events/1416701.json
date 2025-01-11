@@ -1,1 +1,1 @@
-{"football1": {"1": [{"HOME": [{"name": "", "shortName": "", "time": "1'", "id": "0", "score": {"home": "1", "away": "0"}, "type": "FootballGoal"}], "AWAY": []}]}, "summary": [], "status": "2'"}
+{"football1": {"1": [{"HOME": [{"name": "Ayumu Yokoyama", "shortName": "A. Yokoyama", "time": "1'", "id": "60722", "playerId": "60722", "playerNameSlug": "ayumu-yokoyama", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "assist": [{"name": "Scott Wright", "shortName": "S. Wright", "id": "10663"}]}], "AWAY": []}]}, "summary": [], "status": "3'"}
