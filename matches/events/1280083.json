@@ -1,1 +1,1 @@
-{"football1": {"17": [{"AWAY": [], "HOME": [{"name": "Pablo Mari", "shortName": "P. Mari", "time": "17'", "id": "15943", "playerId": "15943", "playerNameSlug": "pablo-mari", "type": "FootballYellowCard", "position": 2}]}]}, "summary": [], "status": "19'"}
+{"football1": {"44": [{"HOME": [{"name": "Patrick Ciurria", "shortName": "P. Ciurria", "time": "44'", "id": "16997", "playerId": "16997", "playerNameSlug": "patrick-ciurria", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "position": 3}], "AWAY": []}]}, "summary": [], "status": "44'"}
