@@ -1,1 +1,1 @@
-{"football1": {"1": [{"HOME": [{"name": "", "shortName": "", "time": "1'", "id": "0", "score": {"home": "1", "away": "0"}, "type": "FootballGoal"}], "AWAY": []}]}, "summary": [], "status": "1'"}
+{"football1": {"1": [{"HOME": [{"name": "Marco Grüll", "shortName": "M. Grüll", "time": "1'", "id": "6630", "playerId": "6630", "playerNameSlug": "marco-grull", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "position": 4}], "AWAY": []}]}, "summary": [], "status": "2'"}
