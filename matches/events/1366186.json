@@ -1,1 +1,1 @@
-{"football1": {"34": [{"HOME": [{"name": "", "shortName": "", "time": "34'", "id": "0", "score": {"home": "1", "away": "0"}, "type": "FootballGoal"}], "AWAY": []}]}, "summary": [], "status": "35'"}
+{"football1": {"34": [{"HOME": [{"name": "Mohamed Salah", "shortName": "M. Salah", "time": "34'", "id": "31483", "playerId": "31483", "playerNameSlug": "mohamed-salah", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "assist": [{"name": "Curtis Jones", "shortName": "C. Jones", "id": "31502"}]}], "AWAY": []}]}, "summary": [], "status": "36'"}
