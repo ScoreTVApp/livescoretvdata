@@ -1,1 +1,1 @@
-{"football1": {"2": [{"HOME": [{"name": "", "shortName": "", "time": "2'", "id": "0", "score": {"home": "1", "away": "0"}, "type": "FootballGoal"}], "AWAY": []}]}, "summary": [], "status": "2'"}
+{"football1": {"2": [{"HOME": [{"name": "Declan Rice", "shortName": "D. Rice", "time": "2'", "id": "29269", "playerId": "29269", "playerNameSlug": "declan-rice", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "assist": [{"name": "Kai Havertz", "shortName": "K. Havertz", "id": "29939"}]}], "AWAY": []}]}, "summary": [], "status": "3'"}
