@@ -1,1 +1,1 @@
-{"football1": {"17": [{"AWAY": [{"name": "", "shortName": "", "time": "17'", "id": "", "score": {"home": "0", "away": "1"}, "type": "FootballGoal"}], "HOME": []}]}, "summary": [], "status": "16'"}
+{"football1": {"17": [{"AWAY": [{"name": "Amine El Ouazzani", "shortName": "A. El Ouazzani", "time": "17'", "id": "59000", "playerId": "59000", "playerNameSlug": "amine-el-ouazzani", "score": {"home": "0", "away": "1"}, "type": "FootballGoal", "assist": [{"name": "Bruma", "shortName": "Bruma", "id": "20038"}]}], "HOME": []}]}, "summary": [], "status": "17'"}
