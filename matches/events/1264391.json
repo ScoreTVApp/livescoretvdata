@@ -1,1 +1,1 @@
-{"football1": {"33": [{"AWAY": [{"name": "", "shortName": "", "time": "33'", "id": "0", "score": {"home": "0", "away": "1"}, "type": "FootballGoal"}], "HOME": []}]}, "summary": [], "status": "40'"}
+{"football1": {"33": [{"AWAY": [{"name": "CJ Hamilton", "shortName": "C. Hamilton", "time": "33'", "id": "40262", "playerId": "40262", "playerNameSlug": "cj-hamilton", "score": {"home": "0", "away": "1"}, "type": "FootballGoal", "assist": [{"name": "Albie Morgan", "shortName": "A. Morgan", "id": "32273"}]}], "HOME": []}]}, "summary": [], "status": "40'"}
