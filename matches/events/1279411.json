@@ -1,1 +1,1 @@
-{"football1": {"31": [{"HOME": [{"name": "", "shortName": "", "time": "31'", "id": "0", "score": {"home": "1", "away": "0"}, "type": "FootballGoal"}], "AWAY": []}]}, "summary": [], "status": "32'"}
+{"football1": {"31": [{"HOME": [{"name": "Morgan Guilavogui", "shortName": "M. Guilavogui", "time": "31'", "id": "33846", "playerId": "33846", "playerNameSlug": "morgan-guilavogui", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "assist": [{"name": "Jackson Irvine", "shortName": "J. Irvine", "id": "13793"}]}], "AWAY": []}]}, "summary": [], "status": "33'"}
