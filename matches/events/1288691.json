@@ -1,1 +1,1 @@
-{"football1": {"23": [{"HOME": [], "AWAY": [{"name": "Chris Francis", "shortName": "C. Francis", "time": "23'", "id": "1532881", "type": "FootballYellowCard"}]}]}, "summary": [], "status": "43'"}
+{"football1": {"23": [{"HOME": [], "AWAY": [{"name": "Chris Francis", "shortName": "C. Francis", "time": "23'", "id": "1532881", "type": "FootballYellowCard"}]}], "43": [{"HOME": [{"name": "", "shortName": "", "time": "43'", "id": "0", "score": {"home": "1", "away": "0"}, "type": "FootballGoal"}], "AWAY": []}]}, "summary": [], "status": "44'"}
