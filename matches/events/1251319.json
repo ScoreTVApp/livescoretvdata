@@ -1,1 +1,1 @@
-{"football1": {"45": [{"HOME": [{"name": "", "shortName": "", "time": "45'", "id": "0", "score": {"home": "1", "away": "0"}, "type": "FootballGoal"}], "AWAY": []}]}, "summary": [], "status": "45'"}
+{"football1": {"44": [{"HOME": [{"name": "Luis Rioja", "shortName": "L. Rioja", "time": "44'", "id": "19271", "playerId": "19271", "playerNameSlug": "luis-rioja", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "assist": [{"name": "Javi Guerra", "shortName": "J. Guerra", "id": "18749"}]}], "AWAY": []}]}, "summary": [], "status": "45+2'"}
