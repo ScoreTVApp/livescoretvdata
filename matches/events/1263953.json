@@ -1,1 +1,1 @@
-{"football1": {"13": [{"AWAY": [{"name": "", "shortName": "", "time": "13'", "id": "", "score": {"home": "0", "away": "1"}, "type": "FootballGoal"}], "HOME": []}]}, "summary": [], "status": "14'"}
+{"football1": {"13": [{"AWAY": [{"name": "Cameron Congreve", "shortName": "C. Congreve", "time": "13'", "id": "41734", "playerId": "41734", "playerNameSlug": "cameron-congreve", "score": {"home": "0", "away": "1"}, "type": "FootballGoal", "assist": [{"name": "Michael Cheek", "shortName": "M. Cheek", "id": "89715"}]}], "HOME": []}]}, "summary": [], "status": "14'"}
