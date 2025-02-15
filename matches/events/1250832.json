@@ -1,1 +1,1 @@
-{"football1": {"4": [{"AWAY": [{"name": "", "shortName": "", "time": "4'", "id": "0", "score": {"home": "0", "away": "1"}, "type": "FootballGoal"}], "HOME": []}]}, "summary": [], "status": "4'"}
+{"football1": {"4": [{"AWAY": [{"name": "Kevin Schade", "shortName": "K. Schade", "time": "4'", "id": "14068", "playerId": "14068", "playerNameSlug": "kevin-schade", "score": {"home": "0", "away": "1"}, "type": "FootballGoal", "position": 3}], "HOME": []}]}, "summary": [], "status": "5'"}
