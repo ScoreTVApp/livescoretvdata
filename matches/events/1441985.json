@@ -1,1 +1,1 @@
-{"football1": {"1": [{"AWAY": [], "HOME": [{"name": "Erick Noriega", "shortName": "E. Noriega", "time": "1'", "id": "81466", "playerId": "81466", "playerNameSlug": "erick-noriega", "type": "FootballYellowCard", "position": 2}]}]}, "summary": [], "status": "4'"}
+{"football1": {"4": [{"HOME": [{"name": "", "shortName": "", "time": "4'", "id": "0", "score": {"home": "1", "away": "0"}, "type": "FootballGoal"}], "AWAY": []}]}, "summary": [], "status": "5'"}
