@@ -1,1 +1,1 @@
-{"football1": {"15": [{"HOME": [], "AWAY": [{"name": "Enrique Bologna", "shortName": "E. Bologna", "time": "15'", "id": "24918", "playerId": "24918", "playerNameSlug": "enrique-bologna", "type": "FootballYellowCard", "position": 1}]}]}, "summary": [], "status": "17'"}
+{"football1": {"38": [{"HOME": [{"name": "Nicolas Fernandez", "shortName": "N. Fernandez", "time": "38'", "id": "24270", "playerId": "24270", "playerNameSlug": "nicolas-fernandez", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "position": 4}], "AWAY": []}]}, "summary": [], "status": "39'"}
