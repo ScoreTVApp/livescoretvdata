@@ -1,1 +1,1 @@
-{"football1": {"11": [{"AWAY": [{"name": "", "shortName": "", "time": "11'", "id": "0", "score": {"home": "0", "away": "1"}, "type": "FootballGoal"}], "HOME": []}]}, "summary": [], "status": "34'"}
+{"football1": {"11": [{"AWAY": [{"name": "Bryan Carrasco", "shortName": "B. Carrasco", "time": "11'", "id": "23885", "playerId": "23885", "playerNameSlug": "bryan-carrasco", "score": {"home": "0", "away": "1"}, "type": "FootballGoal", "position": 4}], "HOME": []}]}, "summary": [], "status": "34'"}
