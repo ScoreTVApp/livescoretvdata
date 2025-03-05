@@ -1,1 +1,1 @@
-{"football1": {"22": [{"HOME": [], "AWAY": [{"name": "Cecilio Dominguez", "shortName": "C. Dominguez", "time": "22'", "id": "43257", "playerId": "43257", "playerNameSlug": "cecilio-dominguez", "score": {"home": "0", "away": "0"}, "type": "FootballGoalPenMiss", "position": 3}]}]}, "summary": [], "status": "34'"}
+{"football1": {"34": [{"AWAY": [{"name": "", "shortName": "", "time": "34'", "id": "0", "score": {"home": "0", "away": "1"}, "type": "FootballGoal"}], "HOME": []}]}, "summary": [], "status": "35'"}
