@@ -1,1 +1,1 @@
-{"football1": {"1": [{"AWAY": [{"name": "", "shortName": "", "time": "1'", "id": "0", "score": {"home": "0", "away": "1"}, "type": "FootballGoal"}], "HOME": []}]}, "summary": [], "status": "1'"}
+{"football1": {"1": [{"AWAY": [{"name": "Matías Soulé", "shortName": "M. Soulé", "time": "1'", "id": "15721", "playerId": "15721", "playerNameSlug": "matias-soule", "score": {"home": "0", "away": "1"}, "type": "FootballGoal", "position": 3}], "HOME": []}]}, "summary": [], "status": "2'"}
