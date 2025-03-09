@@ -1,1 +1,1 @@
-{"football1": {"2": [{"HOME": [{"name": "", "shortName": "", "time": "2'", "id": "", "score": {"home": "1", "away": "0"}, "type": "FootballGoal"}], "AWAY": []}]}, "summary": [], "status": "2'"}
+{"football1": {"2": [{"HOME": [{"name": "Matija Frigan", "shortName": "M. Frigan", "time": "2'", "id": "6242", "playerId": "6242", "playerNameSlug": "matija-frigan", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "position": 4}], "AWAY": []}]}, "summary": [], "status": "3'"}
