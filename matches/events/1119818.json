@@ -1,1 +1,1 @@
-{"football1": {"1": [{"HOME": [{"name": "", "shortName": "", "time": "1'", "id": "0", "score": {"home": "1", "away": "0"}, "type": "FootballGoal"}], "AWAY": []}]}, "summary": [], "status": "2'"}
+{"football1": {"1": [{"HOME": [{"name": "Luis Díaz", "shortName": "L. Díaz", "time": "1'", "id": "31499", "playerId": "31499", "playerNameSlug": "luis-diaz", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "position": 3}], "AWAY": []}]}, "summary": [], "status": "3'"}
