@@ -1,1 +1,1 @@
-{"football1": {"26": [{"HOME": [], "AWAY": [{"name": "James Clarke", "shortName": "J. Clarke", "time": "26'", "id": "1076161", "type": "FootballYellowCard"}]}]}, "summary": [], "status": "30'"}
+{"football1": {"26": [{"HOME": [], "AWAY": [{"name": "James Clarke", "shortName": "J. Clarke", "time": "26'", "id": "1076161", "type": "FootballYellowCard"}]}], "30": [{"HOME": [{"name": "", "shortName": "", "time": "30'", "id": "0", "score": {"home": "1", "away": "0"}, "type": "FootballGoal"}], "AWAY": []}]}, "summary": [], "status": "31'"}
