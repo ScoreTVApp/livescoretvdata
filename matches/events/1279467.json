@@ -1,1 +1,1 @@
-{"football1": {"29": [{"HOME": [{"name": "", "shortName": "", "time": "29'", "id": "0", "score": {"home": "1", "away": "0"}, "type": "FootballGoal"}], "AWAY": []}]}, "summary": [], "status": "29'"}
+{"football1": {"29": [{"HOME": [{"name": "Lucas Holer", "shortName": "L. Holer", "time": "29'", "id": "14055", "playerId": "14055", "playerNameSlug": "lucas-holer", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "assist": [{"name": "Vincenzo Grifo", "shortName": "V. Grifo", "id": "14054"}]}], "AWAY": []}]}, "summary": [], "status": "30'"}
