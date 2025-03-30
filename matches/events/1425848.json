@@ -1,1 +1,1 @@
-{"football1": {"30": [{"HOME": [{"name": "", "shortName": "", "time": "30'", "id": "", "score": {"home": "1", "away": "0"}, "type": "FootballGoal"}], "AWAY": []}]}, "summary": [], "status": "32'"}
+{"football1": {"30": [{"HOME": [{"name": "Tani Oluwaseyi", "shortName": "T. Oluwaseyi", "time": "30'", "id": "30939", "playerId": "30939", "playerNameSlug": "tani-oluwaseyi", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "assist": [{"name": "Jefferson Diaz", "shortName": "J. Diaz", "id": "61406"}]}], "AWAY": []}]}, "summary": [], "status": "33'"}
