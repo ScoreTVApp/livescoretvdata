@@ -1,1 +1,1 @@
-{"football1": {"21": [{"HOME": [], "AWAY": [{"name": "", "shortName": "", "time": "21'", "id": "", "score": {"home": "0", "away": "1"}, "type": "FootballOwnGoal"}]}]}, "summary": ["The match was end! Juve Stabia won!", "Score fulltime: 0 - 1"], "status": "21'"}
+{"football1": {"21": [{"HOME": [], "AWAY": [{"name": "", "shortName": "", "time": "21'", "id": "0", "score": {"home": "0", "away": "1"}, "type": "FootballOwnGoal"}]}]}, "summary": ["The match was end! Juve Stabia won!", "Score fulltime: 0 - 1"], "status": "22'"}
