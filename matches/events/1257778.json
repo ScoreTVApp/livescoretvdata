@@ -1,1 +1,1 @@
-{"football1": {"34": [{"AWAY": [{"name": "", "shortName": "", "time": "34'", "id": "0", "score": {"home": "0", "away": "1"}, "type": "FootballGoal"}], "HOME": []}]}, "summary": [], "status": "34'"}
+{"football1": {"34": [{"AWAY": [{"name": "Keito Nakamura", "shortName": "K. Nakamura", "time": "34'", "id": "6664", "playerId": "6664", "playerNameSlug": "keito-nakamura", "score": {"home": "0", "away": "1"}, "type": "FootballGoal", "assist": [{"name": "Sergio Akieme", "shortName": "S. Akieme", "id": "19196"}]}], "HOME": []}]}, "summary": [], "status": "36'"}
