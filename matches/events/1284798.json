@@ -1,1 +1,1 @@
-{"football1": {"5": [{"HOME": [{"name": "", "shortName": "", "time": "5'", "id": "0", "score": {"home": "1", "away": "0"}, "type": "FootballGoal"}], "AWAY": []}]}, "summary": [], "status": "6'"}
+{"football1": {"5": [{"HOME": [{"name": "Ricardo Horta", "shortName": "R. Horta", "time": "5'", "id": "21103", "playerId": "21103", "playerNameSlug": "ricardo-horta", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "assist": [{"name": "Afonso Patrao", "shortName": "A. Patrao", "id": "101620"}]}], "AWAY": []}]}, "summary": [], "status": "7'"}
