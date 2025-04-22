@@ -1,1 +1,1 @@
-{"football1": {"7": [{"HOME": [{"name": "", "shortName": "", "time": "7'", "id": "0", "score": {"home": "1", "away": "0"}, "type": "FootballGoal"}], "AWAY": []}]}, "summary": [], "status": "7'"}
+{"football1": {"7": [{"HOME": [{"name": "Bernardo Silva", "shortName": "B. Silva", "time": "7'", "id": "3251", "playerId": "3251", "playerNameSlug": "bernardo-silva", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "position": 3}], "AWAY": []}]}, "summary": [], "status": "8'"}
