@@ -1,1 +1,1 @@
-{"football1": {"6": [{"AWAY": [{"name": "", "shortName": "", "time": "6'", "id": "0", "score": {"home": "0", "away": "1"}, "type": "FootballGoal"}], "HOME": []}]}, "summary": [], "status": "7'"}
+{"football1": {"6": [{"AWAY": [{"name": "Viktor Gyökeres", "shortName": "V. Gyökeres", "time": "6'", "id": "153", "playerId": "153", "playerNameSlug": "viktor-gyokeres", "score": {"home": "0", "away": "1"}, "type": "FootballGoal", "assist": [{"name": "Gonçalo Inácio", "shortName": "G. Inácio", "id": "21221"}]}], "HOME": []}]}, "summary": [], "status": "8'"}
