@@ -1,1 +1,1 @@
-{"football1": {"2": [{"AWAY": [{"name": "", "shortName": "", "time": "2'", "id": "", "score": {"home": "0", "away": "1"}, "type": "FootballGoal"}], "HOME": []}]}, "summary": ["The match ended in a draw!", "Score fulltime: 0 - 0"], "status": "3'"}
+{"football1": {"5": [{"AWAY": [{"name": "", "shortName": "", "time": "5'", "id": "0", "score": {"home": "0", "away": "1"}, "type": "FootballGoal"}], "HOME": []}]}, "summary": ["The match was end! Werder Bremen won!", "Score fulltime: 0 - 1"], "status": "5'"}
