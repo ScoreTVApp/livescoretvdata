@@ -1,1 +1,1 @@
-{"football1": {"23": [{"AWAY": [{"name": "", "shortName": "", "time": "23'", "id": "", "score": {"home": "0", "away": "1"}, "type": "FootballGoal"}], "HOME": []}]}, "summary": [], "status": "23'"}
+{"football1": {"23": [{"AWAY": [{"name": "Vitinho", "shortName": "Vitinho", "time": "23'", "id": "19724", "playerId": "19724", "playerNameSlug": "vitinho", "score": {"home": "0", "away": "1"}, "type": "FootballGoal", "position": 2}], "HOME": []}]}, "summary": [], "status": "24'"}
