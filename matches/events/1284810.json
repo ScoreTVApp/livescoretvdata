@@ -1,1 +1,1 @@
-{"football1": {"23": [{"HOME": [{"name": "", "shortName": "", "time": "23'", "id": "0", "score": {"home": "1", "away": "0"}, "type": "FootballGoal"}], "AWAY": []}]}, "summary": [], "status": "23'"}
+{"football1": {"23": [{"HOME": [{"name": "Wendel Wendel", "shortName": "W. Wendel", "time": "23'", "id": "21702", "playerId": "21702", "playerNameSlug": "wendel-wendel", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "assist": [{"name": "Adriano", "shortName": "Adriano", "id": "54254"}]}], "AWAY": []}]}, "summary": [], "status": "24'"}
