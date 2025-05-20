@@ -1,1 +1,1 @@
-{"football1": {"16": [{"HOME": [{"name": "Miguel Merentiel", "shortName": "M. Merentiel", "time": "16'", "id": "28935", "playerId": "28935", "playerNameSlug": "miguel-merentiel", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "position": 4}], "AWAY": []}]}, "summary": [], "status": "16'"}
+{"football1": {"16": [{"AWAY": [], "HOME": [{"name": "", "shortName": "", "time": "16'", "id": "", "score": {"home": "0", "away": "0"}, "type": "FootballGoalMiss", "varLabel": "no_goal"}]}]}, "summary": [], "status": "17'"}
