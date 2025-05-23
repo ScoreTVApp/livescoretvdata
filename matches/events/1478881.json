@@ -1,1 +1,1 @@
-{"football1": {"2": [{"AWAY": [{"name": "", "shortName": "", "time": "2'", "id": "", "score": {"home": "0", "away": "1"}, "type": "FootballGoal"}], "HOME": []}]}, "summary": [], "status": "3'"}
+{"football1": {"2": [{"AWAY": [{"name": "Elias Havel", "shortName": "E. Havel", "time": "2'", "id": "43492", "playerId": "43492", "playerNameSlug": "elias-havel", "score": {"home": "0", "away": "1"}, "type": "FootballGoal", "position": 4}], "HOME": []}]}, "summary": [], "status": "4'"}
