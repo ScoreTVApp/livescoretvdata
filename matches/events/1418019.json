@@ -1,1 +1,1 @@
-{"football1": {"16": [{"AWAY": [{"name": "", "shortName": "", "time": "16'", "id": "0", "score": {"home": "0", "away": "1"}, "type": "FootballGoal"}], "HOME": []}]}, "summary": [], "status": "17'"}
+{"football1": {"16": [{"AWAY": [{"name": "Marc Pubill", "shortName": "M. Pubill", "time": "16'", "id": "19074", "playerId": "19074", "playerNameSlug": "marc-pubill", "score": {"home": "0", "away": "1"}, "type": "FootballGoal", "assist": [{"name": "Diego López", "shortName": "D. López", "id": "18742"}]}], "HOME": []}]}, "summary": [], "status": "18'"}
