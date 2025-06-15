@@ -1,1 +1,1 @@
-{"football1": {"6": [{"HOME": [{"name": "", "shortName": "", "time": "6'", "id": "0", "score": {"home": "1", "away": "0"}, "type": "FootballGoal"}], "AWAY": []}]}, "summary": [], "status": "10'"}
+{"football1": {"6": [{"HOME": [{"name": "Guilherme Biro", "shortName": "G. Biro", "time": "6'", "id": "1174298", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "assist": [{"name": "Owen Wolff", "shortName": "O. Wolff", "id": "43270"}]}], "AWAY": []}]}, "summary": [], "status": "11'"}
