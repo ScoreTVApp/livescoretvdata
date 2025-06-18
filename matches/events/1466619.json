@@ -1,1 +1,1 @@
-{"football1": {"13": [{"HOME": [{"name": "Alexander Ring", "shortName": "A. Ring", "time": "13'", "id": "43250", "playerId": "43250", "playerNameSlug": "alexander-ring", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "assist": [{"name": "Teemu Pukki", "shortName": "T. Pukki", "id": "15310"}]}], "AWAY": []}]}, "summary": [], "status": "12'"}
+{"football1": {"13": [{"HOME": [{"name": "", "shortName": "", "time": "13'", "id": "0", "score": {"home": "1", "away": "0"}, "type": "FootballGoal"}], "AWAY": []}]}, "summary": [], "status": "13'"}
