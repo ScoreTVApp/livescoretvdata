@@ -1,1 +1,1 @@
-{"football1": {"3": [{"HOME": [{"name": "Edward McCarthy", "shortName": "E. McCarthy", "time": "3'", "id": "1248051", "score": {"home": "1", "away": "0"}, "type": "FootballGoal"}], "AWAY": []}]}, "summary": [], "status": "9'"}
+{"football1": {"3": [{"HOME": [{"name": "Edward McCarthy", "shortName": "E. McCarthy", "time": "3'", "id": "1248051", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "assist": [{"name": "Evan Watts", "shortName": "E. Watts"}]}], "AWAY": []}]}, "summary": [], "status": "10'"}
