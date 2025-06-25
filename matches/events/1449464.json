@@ -1,1 +1,1 @@
-{"football1": {"21": [{"AWAY": [{"name": "", "shortName": "", "time": "21'", "id": "0", "score": {"home": "0", "away": "1"}, "type": "FootballGoal"}], "HOME": []}]}, "summary": [], "status": "22'"}
+{"football1": {"21": [{"AWAY": [{"name": "Fabio Abreu", "shortName": "F. Abreu", "time": "21'", "id": "71851", "playerId": "71851", "playerNameSlug": "fabio-abreu", "score": {"home": "0", "away": "1"}, "type": "FootballGoal", "assist": [{"name": "Guga", "shortName": "Guga", "id": "21827"}]}], "HOME": []}]}, "summary": [], "status": "23'"}
