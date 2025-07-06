@@ -1,1 +1,1 @@
-{"football1": {"4": [{"HOME": [{"name": "", "shortName": "", "time": "4'", "id": "0", "score": {"home": "1", "away": "0"}, "type": "FootballGoal"}], "AWAY": []}]}, "summary": [], "status": "5'"}
+{"football1": {"4": [{"HOME": [{"name": "Chris Richards", "shortName": "C. Richards", "time": "4'", "id": "14742", "playerId": "14742", "playerNameSlug": "chris-richards", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "assist": [{"name": "Sebastian Berhalter", "shortName": "S. Berhalter", "id": "8039"}]}], "AWAY": []}]}, "summary": [], "status": "6'"}
