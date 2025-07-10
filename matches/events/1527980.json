@@ -1,1 +1,1 @@
-{"football1": {"30": [{"HOME": [{"name": "", "shortName": "", "time": "30'", "id": "", "score": {"home": "1", "away": "0"}, "type": "FootballGoal"}], "AWAY": []}]}, "summary": [], "status": "30'"}
+{"football1": {"30": [{"HOME": [{"name": "Bjorn Johnsen", "shortName": "B. Johnsen", "time": "30'", "id": "7927", "playerId": "7927", "playerNameSlug": "bjorn-johnsen", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "assist": [{"name": "Felipe Pires", "shortName": "F. Pires", "id": "20498"}]}], "AWAY": []}]}, "summary": [], "status": "31'"}
