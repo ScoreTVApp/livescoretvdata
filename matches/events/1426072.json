@@ -1,1 +1,1 @@
-{"football1": {"21": [{"AWAY": [{"name": "Emmanuel Latte Lath", "shortName": "E. Latte Lath", "time": "21'", "id": "312", "playerId": "312", "playerNameSlug": "emmanuel-latte-lath", "score": {"home": "0", "away": "1"}, "type": "FootballGoal", "position": 4}], "HOME": []}]}, "summary": [], "status": "23'"}
+{"football1": {"23": [{"HOME": [], "AWAY": [{"name": "", "shortName": "", "time": "23'", "id": "", "score": {"home": "0", "away": "0"}, "type": "FootballGoalMiss", "varLabel": "no_goal"}]}]}, "summary": [], "status": "24'"}
