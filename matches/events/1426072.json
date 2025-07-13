@@ -1,1 +1,1 @@
-{"football1": {"23": [{"HOME": [], "AWAY": [{"name": "", "shortName": "", "time": "23'", "id": "", "score": {"home": "0", "away": "0"}, "type": "FootballGoalMiss", "varLabel": "no_goal"}]}]}, "summary": [], "status": "45+6'"}
+{"football1": {"45+6": [{"AWAY": [], "HOME": [{"name": "Deybi Flores", "shortName": "D. Flores", "time": "45 + 6'", "id": "40971", "playerId": "40971", "playerNameSlug": "deybi-flores", "type": "FootballYellowCard", "position": 3}]}]}, "summary": [], "status": "45+7'"}
