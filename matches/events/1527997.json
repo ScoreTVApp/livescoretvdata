@@ -1,1 +1,1 @@
-{"football1": {"45+4": [{"HOME": [], "AWAY": [{"name": "Alenis Vargas", "shortName": "A. Vargas", "time": "45 + 4'", "id": "80405", "playerId": "80405", "playerNameSlug": "alenis-vargas", "type": "FootballYellowCard", "position": 3}]}]}, "summary": ["The match ended in a draw!", "Score fulltime: 0 - 0"], "status": "60'"}
+{"football2": {"61": [{"HOME": [{"name": "", "shortName": "", "time": "61'", "id": "", "score": {"home": "1", "away": "0"}, "type": "FootballGoal"}], "AWAY": []}]}, "summary": ["The match was end! SJK-J won!", "Score fulltime: 1 - 0"], "status": "61'"}
