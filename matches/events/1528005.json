@@ -1,1 +1,1 @@
-{"football1": {"32": [{"AWAY": [], "HOME": [{"name": "Ivan Englaro", "shortName": "I. Englaro", "time": "32'", "id": "51035", "playerId": "51035", "playerNameSlug": "ivan-englaro", "type": "FootballYellowCard", "position": 2}]}]}, "summary": ["The match ended in a draw!", "Score fulltime: 0 - 0"], "status": "34'"}
+{"football1": {"34": [{"AWAY": [{"name": "", "shortName": "", "time": "34'", "id": "", "score": {"home": "0", "away": "1"}, "type": "FootballGoal"}], "HOME": []}]}, "summary": ["The match was end! Atletic Escaldes won!", "Score fulltime: 0 - 1"], "status": "34'"}
