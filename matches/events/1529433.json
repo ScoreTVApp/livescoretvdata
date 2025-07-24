@@ -1,1 +1,1 @@
-{"football2": {"60": [{"AWAY": [], "HOME": [{"name": "Jonas Enkerud", "shortName": "J. Enkerud", "time": "60'", "id": "40146", "playerId": "40146", "playerNameSlug": "jonas-enkerud", "type": "FootballYellowCard", "position": 4}]}]}, "summary": ["The match ended in a draw!", "Score fulltime: 0 - 0"], "status": "60'"}
+{"football2": {"62": [{"AWAY": [{"name": "", "shortName": "", "time": "62'", "id": "", "score": {"home": "0", "away": "1"}, "type": "FootballGoal"}], "HOME": []}]}, "summary": ["The match was end! Broendby IF won!", "Score fulltime: 0 - 1"], "status": "62'"}
