@@ -1,1 +1,1 @@
-{"football1": {"15": [{"HOME": [{"name": "", "shortName": "", "time": "15'", "id": "0", "score": {"home": "1", "away": "0"}, "type": "FootballGoal"}], "AWAY": []}]}, "summary": [], "status": "17'"}
+{"football1": {"15": [{"AWAY": [], "HOME": [{"name": "Alie Conteh", "shortName": "A. Conteh", "time": "15'", "id": "84398", "playerId": "84398", "playerNameSlug": "alie-conteh", "score": {"home": "1", "away": "0"}, "type": "FootballOwnGoal", "position": 4}]}]}, "summary": [], "status": "18'"}
