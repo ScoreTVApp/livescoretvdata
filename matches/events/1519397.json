@@ -1,1 +1,1 @@
-{"football1": {"9": [{"AWAY": [{"name": "", "shortName": "", "time": "9'", "id": "", "score": {"home": "0", "away": "1"}, "type": "FootballGoal"}], "HOME": []}]}, "summary": [], "status": "9'"}
+{"football1": {"9": [{"AWAY": [{"name": "Alexander Lyng", "shortName": "A. Lyng", "time": "9'", "id": "71792", "playerId": "71792", "playerNameSlug": "alexander-lyng", "score": {"home": "0", "away": "1"}, "type": "FootballGoal", "assist": [{"name": "Mads Agger", "shortName": "M. Agger", "id": "88629"}]}], "HOME": []}]}, "summary": [], "status": "10'"}
