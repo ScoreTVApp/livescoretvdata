@@ -1,1 +1,1 @@
-{"football1": {"44": [{"HOME": [{"name": "", "shortName": "", "time": "44'", "id": "", "score": {"home": "1", "away": "0"}, "type": "FootballGoal"}], "AWAY": []}]}, "summary": [], "status": "44'"}
+{"football1": {"44": [{"AWAY": [], "HOME": [{"name": "James Norris", "shortName": "J. Norris", "time": "44'", "id": "31505", "playerId": "31505", "playerNameSlug": "james-norris", "score": {"home": "1", "away": "0"}, "type": "FootballOwnGoal", "position": 2}]}]}, "summary": [], "status": "45'"}
