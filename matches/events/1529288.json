@@ -1,1 +1,1 @@
-{"football1": {"7": [{"AWAY": [], "HOME": [{"name": "", "shortName": "", "time": "7'", "id": "", "score": {"home": "0", "away": "0"}, "type": "FootballGoalMiss", "varLabel": "no_goal"}]}]}, "summary": [], "status": "15'"}
+{"football1": {"15": [{"AWAY": [{"name": "Erik Prekop", "shortName": "E. Prekop", "time": "15'", "id": "8507", "playerId": "8507", "playerNameSlug": "erik-prekop", "score": {"home": "0", "away": "1"}, "type": "FootballGoal", "position": 4}], "HOME": []}]}, "summary": [], "status": "16'"}
