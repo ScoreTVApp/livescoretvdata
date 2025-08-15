@@ -1,1 +1,1 @@
-{"football1": {"15": [{"AWAY": [], "HOME": [{"name": "Justus Henke", "shortName": "J. Henke", "time": "15'", "id": "14649", "playerId": "14649", "playerNameSlug": "justus-henke", "type": "FootballYellowCard", "position": 2}]}]}, "summary": [], "status": "19'"}
+{"football1": {"19": [{"AWAY": [{"name": "Robert Skov", "shortName": "R. Skov", "time": "19'", "id": "14732", "playerId": "14732", "playerNameSlug": "robert-skov", "score": {"home": "0", "away": "1"}, "type": "FootballGoal", "position": 4}], "HOME": []}]}, "summary": [], "status": "20'"}
