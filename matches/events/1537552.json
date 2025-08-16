@@ -1,1 +1,1 @@
-{"football1": {"21": [{"AWAY": [], "HOME": [{"name": "Lee Bell", "shortName": "L. Bell", "time": "21'", "id": "58416", "playerId": "58416", "playerNameSlug": "lee-bell", "type": "FootballYellowCard", "position": 10}]}]}, "summary": [], "status": "22'"}
+{"football1": {"23": [{"HOME": [{"name": "", "shortName": "", "time": "23'", "id": "0", "score": {"home": "1", "away": "0"}, "type": "FootballGoal"}], "AWAY": []}]}, "summary": [], "status": "24'"}
