@@ -1,1 +1,1 @@
-{"football1": {"20": [{"AWAY": [], "HOME": [{"name": "", "shortName": "", "time": "20'", "id": "", "type": "FootballYellowCard"}]}]}, "summary": [], "status": "22'"}
+{"football1": {"20": [{"AWAY": [], "HOME": [{"name": "", "shortName": "", "time": "20'", "id": "", "type": "FootballYellowCard"}]}], "23": [{"HOME": [{"name": "Manny Duku", "shortName": "M. Duku", "time": "23'", "id": "108528", "playerId": "108528", "playerNameSlug": "manny-duku", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "position": 14}], "AWAY": []}]}, "summary": [], "status": "24'"}
