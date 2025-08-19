@@ -1,1 +1,1 @@
-{"football2": {"56": [{"HOME": [{"name": "Anas Yusuf", "shortName": "A. Yusuf", "time": "56'", "id": "1042006", "score": {"home": "1", "away": "0"}, "type": "FootballGoal"}], "AWAY": []}]}, "summary": [], "status": "90+4'"}
+{"football2": {"56": [{"HOME": [{"name": "Anas Yusuf", "shortName": "A. Yusuf", "time": "56'", "id": "1042006", "score": {"home": "1", "away": "0"}, "type": "FootballGoal"}], "AWAY": []}], "90+2": [{"HOME": [], "AWAY": [{"name": "", "shortName": "", "time": "90 + 2'", "id": "0", "type": "FootballRedCard"}]}]}, "summary": [], "status": "90+5'"}
