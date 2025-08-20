@@ -1,1 +1,1 @@
-{"football1": {"17": [{"HOME": [{"name": "", "shortName": "", "time": "17'", "id": "", "score": {"home": "1", "away": "0"}, "type": "FootballGoal"}], "AWAY": []}]}, "summary": [], "status": "17'"}
+{"football1": {"17": [{"HOME": [{"name": "Gen Shoji", "shortName": "G. Shoji", "time": "17'", "id": "23435", "playerId": "23435", "playerNameSlug": "gen-shoji", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "position": 2}], "AWAY": []}]}, "summary": [], "status": "18'"}
