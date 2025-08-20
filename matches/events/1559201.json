@@ -1,1 +1,1 @@
-{"football1": {"24": [{"AWAY": [], "HOME": [{"name": "Will Nightingale", "shortName": "W. Nightingale", "time": "24'", "id": "11429", "playerId": "11429", "playerNameSlug": "will-nightingale", "type": "FootballYellowCard", "position": 14}]}]}, "summary": [], "status": "29'"}
+{"football1": {"29": [{"AWAY": [{"name": "", "shortName": "", "time": "29'", "id": "0", "score": {"home": "0", "away": "1"}, "type": "FootballGoal"}], "HOME": []}]}, "summary": [], "status": "30'"}
