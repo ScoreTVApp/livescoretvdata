@@ -1,1 +1,1 @@
-{"football1": {"31": [{"AWAY": [{"name": "Blesa, Jalen", "shortName": "B. Jalen", "time": "31'", "id": "0", "score": {"home": "0", "away": "1"}, "type": "FootballGoal"}], "HOME": []}]}, "summary": [], "status": "33'"}
+{"football1": {"31": [{"AWAY": [{"name": "Jalen Blesa", "shortName": "J. Blesa", "time": "31'", "id": "85771", "playerId": "85771", "playerNameSlug": "jalen-blesa", "score": {"home": "0", "away": "1"}, "type": "FootballGoal", "assist": [{"name": "Tommaso Berti", "shortName": "T. Berti", "id": "17303"}]}], "HOME": []}]}, "summary": [], "status": "34'"}
