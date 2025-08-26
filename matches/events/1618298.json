@@ -1,1 +1,1 @@
-{"football2": {"63": [{"HOME": [{"name": "", "shortName": "", "time": "63'", "id": "0", "score": {"home": "1", "away": "0"}, "type": "FootballGoal"}], "AWAY": []}]}, "summary": [], "status": "65'"}
+{"football2": {"63": [{"AWAY": [], "HOME": [{"name": "Karl Darlow", "shortName": "K. Darlow", "time": "63'", "id": "0", "score": {"home": "1", "away": "0"}, "type": "FootballOwnGoal"}]}]}, "summary": [], "status": "66'"}
