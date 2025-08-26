@@ -1,1 +1,1 @@
-{"football1": {"7": [{"HOME": [], "AWAY": [{"name": "Sibusiso Ncube", "shortName": "S. Ncube", "time": "7'", "id": "98352", "playerId": "98352", "playerNameSlug": "sibusiso-ncube", "type": "FootballYellowCard", "position": 3}]}]}, "summary": [], "status": "HT"}
+{"football2": {"47": [{"HOME": [{"name": "", "shortName": "", "time": "47'", "id": "0", "score": {"home": "1", "away": "0"}, "type": "FootballGoal"}], "AWAY": []}]}, "summary": [], "status": "47'"}
