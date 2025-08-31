@@ -1,1 +1,1 @@
-{"football1": {"32": [{"HOME": [{"name": "", "shortName": "", "time": "32'", "id": "0", "score": {"home": "1", "away": "0"}, "type": "FootballGoal"}], "AWAY": []}]}, "summary": [], "status": "40'"}
+{"football1": {"34": [{"AWAY": [], "HOME": [{"name": "", "shortName": "", "time": "34'", "id": "", "score": {"home": "0", "away": "0"}, "type": "FootballGoalMiss", "varLabel": "no_goal"}]}]}, "summary": [], "status": "41'"}
