@@ -1,1 +1,1 @@
-{"football1": {"14": [{"AWAY": [{"name": "", "shortName": "", "time": "14'", "id": "0", "score": {"home": "0", "away": "1"}, "type": "FootballGoal"}], "HOME": []}]}, "summary": [], "status": "15'"}
+{"football1": {"14": [{"AWAY": [{"name": "Fran Kirby", "shortName": "F. Kirby", "time": "14'", "id": "41878", "playerId": "41878", "playerNameSlug": "fran-kirby", "score": {"home": "0", "away": "1"}, "type": "FootballGoal", "assist": [{"name": "Rachel Mclauchlan", "shortName": "R. Mclauchlan", "id": "95185"}]}], "HOME": []}]}, "summary": [], "status": "16'"}
