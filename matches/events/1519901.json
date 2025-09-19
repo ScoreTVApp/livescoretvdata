@@ -1,1 +1,1 @@
-{"football1": {"5": [{"HOME": [{"name": "", "shortName": "", "time": "5'", "id": "0", "score": {"home": "1", "away": "0"}, "type": "FootballGoal"}], "AWAY": []}]}, "summary": [], "status": "6'"}
+{"football1": {"5": [{"HOME": [{"name": "Riccardo Sottil", "shortName": "R. Sottil", "time": "5'", "id": "15917", "playerId": "15917", "playerNameSlug": "riccardo-sottil", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "assist": [{"name": "Tiago Gabriel", "shortName": "T. Gabriel"}]}], "AWAY": []}]}, "summary": [], "status": "6'"}
