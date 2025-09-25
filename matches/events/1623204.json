@@ -1,1 +1,1 @@
-{"football1": {"9": [{"HOME": [{"name": "", "shortName": "", "time": "9'", "id": "0", "score": {"home": "1", "away": "0"}, "type": "FootballGoal"}], "AWAY": []}]}, "summary": [], "status": "11'"}
+{"football1": {"9": [{"HOME": [{"name": "Cesare Casadei", "shortName": "C. Casadei", "time": "9'", "id": "16028", "playerId": "16028", "playerNameSlug": "cesare-casadei", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "assist": [{"name": "Cyril Ngonge", "shortName": "C. Ngonge", "id": "20017"}]}], "AWAY": []}]}, "summary": [], "status": "12'"}
