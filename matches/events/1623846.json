@@ -1,1 +1,1 @@
-{"football1": {"2": [{"AWAY": [{"name": "", "shortName": "", "time": "2'", "id": "0", "score": {"home": "0", "away": "1"}, "type": "FootballGoal"}], "HOME": []}]}, "summary": ["The match ended in a draw!", "Score fulltime: 0 - 0"], "status": "6'"}
+{"football1": {"4": [{"HOME": [], "AWAY": [{"name": "", "shortName": "", "time": "4'", "id": "", "score": {"home": "0", "away": "0"}, "type": "FootballGoalMiss", "varLabel": "no_goal"}]}]}, "summary": ["The match ended in a draw!", "Score fulltime: 0 - 0"], "status": "6'"}
