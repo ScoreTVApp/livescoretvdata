@@ -1,1 +1,1 @@
-{"football1": {"4": [{"HOME": [{"name": "", "shortName": "", "time": "4'", "id": "0", "score": {"home": "1", "away": "0"}, "type": "FootballGoal"}], "AWAY": []}]}, "summary": [], "status": "4'"}
+{"football1": {"4": [{"HOME": [{"name": "Marc Kempf", "shortName": "M. Kempf", "time": "4'", "id": "13856", "playerId": "13856", "playerNameSlug": "marc-kempf", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "assist": [{"name": "Nico Paz", "shortName": "N. Paz", "id": "33689"}]}], "AWAY": []}]}, "summary": [], "status": "5'"}
