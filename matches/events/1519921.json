@@ -1,1 +1,1 @@
-{"football1": {"10": [{"HOME": [{"name": "", "shortName": "", "time": "10'", "id": "0", "score": {"home": "1", "away": "0"}, "type": "FootballGoal"}], "AWAY": []}]}, "summary": [], "status": "10'"}
+{"football1": {"9": [{"HOME": [{"name": "Toma Bašić", "shortName": "T. Bašić", "time": "9'", "id": "16079", "playerId": "16079", "playerNameSlug": "toma-basic", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "assist": [{"name": "Danilo Cataldi", "shortName": "D. Cataldi", "id": "16076"}]}], "AWAY": []}]}, "summary": [], "status": "11'"}
