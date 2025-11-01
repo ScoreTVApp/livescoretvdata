@@ -1,1 +1,1 @@
-{"football1": {"32": [{"HOME": [{"name": "", "shortName": "", "time": "32'", "id": "", "score": {"home": "1", "away": "0"}, "type": "FootballGoal"}], "AWAY": []}]}, "summary": [], "status": "33'"}
+{"football1": {"32": [{"HOME": [{"name": "Lewis Wing", "shortName": "L. Wing", "time": "32'", "id": "39236", "playerId": "39236", "playerNameSlug": "lewis-wing", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "position": 3}], "AWAY": []}]}, "summary": [], "status": "35'"}
