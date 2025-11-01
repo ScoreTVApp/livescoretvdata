@@ -1,1 +1,1 @@
-{"football1": {"26": [{"HOME": [{"name": "", "shortName": "", "time": "26'", "id": "0", "score": {"home": "1", "away": "0"}, "type": "FootballGoal"}], "AWAY": []}]}, "summary": [], "status": "29'"}
+{"football1": {"26": [{"HOME": [{"name": "Micah Mbick", "shortName": "M. Mbick", "time": "26'", "id": "79155", "playerId": "79155", "playerNameSlug": "micah-mbick", "score": {"home": "1", "away": "0"}, "type": "FootballGoal", "assist": [{"name": "Harry Anderson", "shortName": "H. Anderson", "id": "42302"}]}], "AWAY": []}]}, "summary": [], "status": "29'"}
