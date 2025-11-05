@@ -1,1 +1,1 @@
-{"football1": {"32": [{"HOME": [], "AWAY": [{"name": "", "shortName": "", "time": "32'", "id": "", "score": {"home": "0", "away": "0"}, "type": "FootballGoalPenMiss"}]}]}, "summary": ["The match ended in a draw!", "Score fulltime: 0 - 0"], "status": "36'"}
+{"football1": {"36": [{"HOME": [{"name": "", "shortName": "", "time": "36'", "id": "0", "score": {"home": "1", "away": "0"}, "type": "FootballGoal"}], "AWAY": []}]}, "summary": ["The match was end! Boston United won!", "Score fulltime: 1 - 0"], "status": "37'"}
