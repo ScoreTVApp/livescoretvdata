@@ -1,1 +1,1 @@
-{"football4": {"0": [{"HOME": [], "AWAY": [{"name": "", "shortName": "", "time": "", "id": "", "score": {"home": "0", "away": "1"}, "type": "FootballGoalPen"}]}]}, "summary": [], "status": "Pen"}
+{"football4": {"0": [{"HOME": [], "AWAY": [{"name": "", "shortName": "", "time": "", "id": "", "score": {"home": "0", "away": "1"}, "type": "FootballGoalPen"}, {"name": "", "shortName": "", "time": "", "id": "", "score": {"home": "0", "away": "2"}, "type": "FootballGoalPen"}]}]}, "summary": [], "status": "Pen"}
