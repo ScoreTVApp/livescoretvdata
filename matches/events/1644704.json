@@ -1,1 +1,1 @@
-{"football1": {"12": [{"AWAY": [{"name": "", "shortName": "", "time": "12'", "id": "", "score": {"home": "0", "away": "1"}, "type": "FootballGoal"}], "HOME": []}]}, "summary": ["The match was end! Legia Warszawa U19 won!", "Score fulltime: 0 - 1"], "status": "14'"}
+{"football1": {"12": [{"AWAY": [{"name": "Karol Kosiorek", "shortName": "K. Kosiorek", "time": "12'", "id": "0", "score": {"home": "0", "away": "1"}, "type": "FootballGoal"}], "HOME": []}]}, "summary": ["The match ended in a draw!", "Score fulltime: 1 - 1"], "status": "15'"}
